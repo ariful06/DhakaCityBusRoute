@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Dhaka City</string>
+    <string name="google_api_key">AIzaSyDJggf0d6lmgRtNWDPrCUSlAGXGxPGlqxI</string>
+
+
     <string name="login_with_google">Login with Google</string>
     <string name="use_your_email">Use your email</string>
     <string name="login">Login</string>

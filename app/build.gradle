@@ -31,6 +31,8 @@ dependencies {
     implementation 'com.github.jd-alexander:library:1.1.0'
     //Dependency
     compile 'de.hdodenhof:circleimageview:2.2.0'
+    compile 'com.google.android.gms:play-services-location:11.8.0'
+    compile 'com.google.android.gms:play-services-maps:11.8.0'
     compile 'com.github.ybq:Android-SpinKit:1.1.0'
     implementation 'com.sothree.slidinguppanel:library:3.4.0'
     testImplementation 'junit:junit:4.12'
